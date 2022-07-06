@@ -190,5 +190,4 @@ class King(Enemy):
 ### Requirements:
 - Python3
 
-     Clash-Of-Kingdoms
 ![Alt text](image.png "Title")
