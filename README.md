@@ -191,5 +191,3 @@ class King(Enemy):
 - Python3
 
 ![Alt text](image.png "Title")# Clash-Of-Kingdoms
-# Clash-Of-Kingdoms
-# Clash-Of-Kingdoms
